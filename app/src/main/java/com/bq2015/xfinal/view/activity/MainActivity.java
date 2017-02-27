@@ -26,6 +26,9 @@ public class MainActivity extends BaseActivity<MainActivity, MainActivityVM> {
     FrameLayout mMainFlMiddle;
     @Bind(R.id.main_fl_down)
     FrameLayout mMainFlDown;
+
+
+
     private MainActivityVM mViewModel;
     private TextView mText;
 
